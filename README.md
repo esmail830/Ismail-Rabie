@@ -29,8 +29,8 @@
 ---
 
 ## 📫 تواصل معي
-- 📧 البريد: your-email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 البريد: esmailrabie902@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%B1%D8%A7%D8%A8%D8%B9-417a39258)  
 
 ---
 
