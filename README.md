@@ -19,7 +19,7 @@
 ## 📂 مشاريعي
 - [📊 تحليل بيانات Titanic](https://github.com/IsmailRabie/Titanic_EDA) – تحليل استكشافي + نموذج ML للتنبؤ بالبقاء  
 - [🗄️ SQL Murder Mystery](https://github.com/IsmailRabie/SQL_Murder_Mystery) – حل تحدي SQL بطريقة ممتعة  
-- [📈 مشروع تعلم الآلة](https://github.com/IsmailRabie/ML_Project) – تطبيق خوارزميات تصنيف وتوقع  
+- [📈 مشروع تعلم الآلة](https://github.com/esmail830/Sudan-Faults-Classification/blob/main/README.md) – تطبيق خوارزميات تصنيف وتوقع  
 
 ---
 
