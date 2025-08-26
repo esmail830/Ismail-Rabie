@@ -2,8 +2,8 @@
 
 🎓 طالب علوم حاسوب – تخصص نظم معلومات  
 📊 مهتم بمجال تحليل البيانات وتعلم الآلة  
-💡 هدفي: أن أصبح محلل بيانات محترف  
-💡لدي خبره في برمجة تطبقات الاندرويد بفلاتر
+💡 هدفي: أن أصبح مبرمج و محلل بيانات محترف  
+💡لدي خبره في برمجة تطبقات الاندرويد بفلاتر و برمجة الويب
 ---
 
 ## 🚀 المهارات
@@ -14,6 +14,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+
+
 
 ---
 
